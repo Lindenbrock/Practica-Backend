@@ -1,3 +1,5 @@
+# Luis Jose Ixta Zamudio luisjoseixtazamudio@gmail.com
+
 books = [
     {'name':'La Niebla', 'author':'Stephen King', 'category':'novela', 'publisher':'Debolsillo',
      'type':'Pasta blanda'},
